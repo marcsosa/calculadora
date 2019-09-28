@@ -1,0 +1,42 @@
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex a1c2a23..603b140 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -1,23 +1,14 @@[m
+[31m-# Compiled class file[m
+[31m-*.class[m
+[31m-[m
+[31m-# Log file[m
+[31m-*.log[m
+[31m-[m
+[31m-# BlueJ files[m
+[31m-*.ctxt[m
+[31m-[m
+[31m-# Mobile Tools for Java (J2ME)[m
+[31m-.mtj.tmp/[m
+[31m-[m
+[31m-# Package Files #[m
+[31m-*.jar[m
+[31m-*.war[m
+[31m-*.nar[m
+[31m-*.ear[m
+[31m-*.zip[m
+[31m-*.tar.gz[m
+[31m-*.rar[m
+[31m-[m
+[31m-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml[m
+[31m-hs_err_pid*[m
+[32m+[m[32m*.iml[m
+[32m+[m[32m.gradle[m
+[32m+[m[32m/local.properties[m
+[32m+[m[32m/.idea/caches[m
+[32m+[m[32m/.idea/libraries[m
+[32m+[m[32m/.idea/modules.xml[m
+[32m+[m[32m/.idea/workspace.xml[m
+[32m+[m[32m/.idea/navEditor.xml[m
+[32m+[m[32m/.idea/assetWizardSettings.xml[m
+[32m+[m[32m.DS_Store[m
+[32m+[m[32m/build[m
+[32m+[m[32m/captures[m
+[32m+[m[32m.externalNativeBuild[m
+[32m+[m[32m.cxx[m
